@@ -3,12 +3,16 @@
 
 In this exercise you will practice working with arithmetic operators and variables with the C programming language.
 
+
 You will create four functions within the **calculator.c** file called:
 
-**int add(int a, int b))** which adds two integers.
-**int subtract(int a, int b))** which subtracts two integers.
-**int multiply(int a, int b))** which miltiplies two integers.
-**int divide(int a, int b))** which divides two integers.
+* **int add(int a, int b)** which adds two integers.
+
+* **int subtract(int a, int b)** which subtracts two integers.
+
+* **int multiply(int a, int b)** which miltiplies two integers.
+
+* **int divide(int a, int b)** which divides two integers.
 
 You will create a program that performs basic arithmetic operations (+, -, *, /) on two integers entered by the user within the **main()** function of the **main.c** file.
 Make sure your program checks for division by 0 and invalid operators. 
